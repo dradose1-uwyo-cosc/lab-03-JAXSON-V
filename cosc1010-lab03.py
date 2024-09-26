@@ -10,6 +10,7 @@
 
 
 
+
 # This is your second lab section. It will primarily be based on the Introducing Lists lecture, reference it if you need
 # Complete all sections of this assignment 
 
